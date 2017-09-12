@@ -45,3 +45,21 @@ markdown 很多程序员写文档的一个语法
 **图片**
 
 ![image](https://www.baidu.com/img/bd_logo1.png)
+
+```js
+function show(){
+}
+```
+
+```html
+<p>
+样式<a href="https://baidu.com">链接</a>
+</p>
+```
+
+内联的代码`alert("hello world")`内联的代码
+
+header 1 | header 2 | header 3
+--- | --- | --- |
+row 1 col 1 | row 1 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
